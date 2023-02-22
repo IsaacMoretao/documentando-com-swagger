@@ -61,19 +61,3 @@ yarn dev
 ```
 http://localhost:3333/api-docs/
 ```
----
-### **Resolução do Desafio**
-  [Meu documentação.](https://github.com/Mar0la/ignite-documentando-com-Swagger/blob/main/src/swagger.json)
-
-
-### **Retorno que devemos ter ao digitar  <code>yarn test</code>** no terminal
-  ![Meu código](./assets/teste.png)
-
----
-## FeedBack do Desafio
-  - Não tenho muito a falar sobre esse desafio, apenas que com a documentação do **swagger** do lado, fazer uma documentação de API não se torna algo  complicado, somente é uma coisa não tão atrativa de ser feita.
----
-
-
-
-
